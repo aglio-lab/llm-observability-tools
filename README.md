@@ -128,6 +128,7 @@ An **AI gateway** sits in the request path between an application and one or mor
 | [OpenRouter](https://openrouter.ai/)                                  | 🔒 Commercial  | OpenRouter is a managed unified API and routing service for multiple model providers with usage accounting, provider selection, fallbacks, and optional trace broadcasting. [Docs](https://openrouter.ai/docs)               |
 | [Keywords AI](https://keywordsai.co/)                                 | 🔒 Commercial  | Keywords AI is a managed AI gateway and developer platform with multi-provider routing, retries, caching, rate limits, request logs, cost analytics, and evaluations. [Docs](https://docs.keywordsai.co/)                     |
 | [Traefik Hub AI Gateway](https://traefik.io/solutions/ai-gateway)     | 🔒 Commercial  | Traefik Hub AI Gateway extends Traefik's API management layer with model routing, authentication, rate limiting, token controls, observability, and governance for LLM and agent traffic.                                    |
+| [ModelRush](https://modelrush.ai) | 🔒 Commercial | ModelRush is a hosted gateway for text, image, video, and voice models with API-key access, request usage analytics, history, and prepaid usage-based credits; chat is OpenAI-compatible while media endpoints are model-specific. |
 
 ## Online Quality Evaluation and Feedback Monitoring
 
