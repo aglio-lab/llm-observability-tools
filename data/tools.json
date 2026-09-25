@@ -3,10 +3,10 @@
   "source": "https://github.com/aglio-lab/llm-observability-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 120,
+  "entry_count": 121,
   "category_count": 11,
   "categories": {
-    "Full-Stack LLM Observability Platforms": 19,
+    "Full-Stack LLM Observability Platforms": 20,
     "Open-Source Tracing and Self-Hosted Observability": 9,
     "OpenTelemetry and Interoperability Specifications": 7,
     "AI Gateways and Proxies": 12,
@@ -307,6 +307,17 @@
           "url": "https://posthog.com/docs/ai-observability"
         }
       ]
+    },
+    {
+      "id": "full-stack-llm-observability-platforms--noveum",
+      "name": "Noveum",
+      "artifact_type": "platform",
+      "category": "Full-Stack LLM Observability Platforms",
+      "availability": "commercial",
+      "status": "active",
+      "primary_url": "https://noveum.ai",
+      "description": "Noveum traces LLM calls and agent workflows, creates evaluation datasets from application traces, and compares response quality, latency, and cost.",
+      "secondary_links": []
     },
     {
       "id": "open-source-tracing-and-self-hosted-observability--arize-phoenix",
