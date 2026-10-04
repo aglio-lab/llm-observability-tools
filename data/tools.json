@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/llm-observability-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 120,
+  "entry_count": 121,
   "category_count": 11,
   "categories": {
     "Full-Stack LLM Observability Platforms": 19,
@@ -12,7 +12,7 @@
     "AI Gateways and Proxies": 12,
     "Online Quality Evaluation and Feedback Monitoring": 12,
     "Agent Observability and Session Replay": 11,
-    "Cost, Latency, and Inference Performance Monitoring": 9,
+    "Cost, Latency, and Inference Performance Monitoring": 10,
     "Security, Compliance, and Runtime Policy Monitoring": 15,
     "Cloud and APM Suites with LLM Observability": 10,
     "Classic ML and Data Monitoring": 7,
@@ -1141,6 +1141,17 @@
       "status": "active",
       "primary_url": "https://github.com/ray-project/llmperf",
       "description": "LLMPerf is an open-source Ray project for load-testing LLM APIs and reporting latency, token throughput, request throughput, and correctness checks on returned responses.",
+      "secondary_links": []
+    },
+    {
+      "id": "cost-latency-and-inference-performance-monitoring--traceburn",
+      "name": "TraceBurn",
+      "artifact_type": "tool",
+      "category": "Cost, Latency, and Inference Performance Monitoring",
+      "availability": "open-source",
+      "status": "active",
+      "primary_url": "https://github.com/TommyTranX/traceburn",
+      "description": "TraceBurn is a local Python profiler for AI agents that records token usage, estimated cost and latency, flags possible inefficiencies, and compares runs using a SQLite trace store.",
       "secondary_links": []
     },
     {

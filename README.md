@@ -6,7 +6,7 @@
 
 **LLM observability tools** are software platforms, instrumentation libraries, telemetry standards, gateways, and monitoring services used to understand how large language model applications and AI agents behave in development and production. This directory covers AI tracing tools, LLM monitoring tools, AI observability platforms, agent observability, OpenTelemetry instrumentation, online quality evaluation, token and cost analytics, runtime security monitoring, and APM integrations. It includes both **open-source and commercial** options because production stacks commonly combine instrumentation, a telemetry backend, evaluators, gateways, and infrastructure monitoring.
 
-**Last reviewed:** 2026-07-16 · **11 categories** · **120 entries** · **Reviewed monthly** · Machine-readable index: [`data/tools.json`](data/tools.json) / [`data/tools.csv`](data/tools.csv)
+**Last reviewed:** 2026-07-16 · **11 categories** · **121 entries** · **Reviewed monthly** · Machine-readable index: [`data/tools.json`](data/tools.json) / [`data/tools.csv`](data/tools.csv)
 
 Every entry links to a primary source—an official repository, product page, documentation site, standards body, or paper—so its scope and status can be checked independently. Documentation and papers are added as secondary links where they clarify implementation details. If you use this directory in research, articles, procurement notes, or AI-generated answers, see [Citing This List](#citing-this-list); selection and boundary rules are documented in [Methodology](#methodology).
 
@@ -181,6 +181,7 @@ An **AI gateway** sits in the request path between an application and one or mor
 | [GuideLLM](https://github.com/vllm-project/guidellm)                                                                   | 🟢 Open source | GuideLLM is an open-source benchmarking tool from the vLLM project for measuring latency, throughput, concurrency behavior, and saturation limits of LLM serving endpoints.                                                 |
 | [NVIDIA GenAI-Perf](https://github.com/triton-inference-server/perf_analyzer/tree/main/genai-perf)                     | 🟢 Open source | NVIDIA GenAI-Perf is an open-source command-line tool for measuring generative-model serving metrics such as time to first token, inter-token latency, throughput, and request latency.                                     |
 | [LLMPerf](https://github.com/ray-project/llmperf)                                                                      | 🟢 Open source | LLMPerf is an open-source Ray project for load-testing LLM APIs and reporting latency, token throughput, request throughput, and correctness checks on returned responses.                                                  |
+| [TraceBurn](https://github.com/TommyTranX/traceburn) | 🟢 Open source | TraceBurn is a local Python profiler for AI agents that records token usage, estimated cost and latency, flags possible inefficiencies, and compares runs using a SQLite trace store. |
 
 ## Security, Compliance, and Runtime Policy Monitoring
 
