@@ -79,6 +79,7 @@ A **full-stack LLM observability platform** combines trace capture and explorati
 | [Lunary](https://lunary.ai/)                                        | 🔒 Commercial  | Lunary is a hosted toolkit for LLM observability, prompt management, user feedback, analytics, evaluations, and team collaboration, with Python and JavaScript client SDKs. [Docs](https://lunary.ai/docs)                                     |
 | [Agenta](https://github.com/Agenta-AI/agenta)                        | 🟢 Open source | Agenta is an open-source LLMOps platform for prompt versioning, experiments, automatic and human evaluation, tracing, and production observability. [Docs](https://docs.agenta.ai/)                                                             |
 | [PostHog AI Observability](https://posthog.com/ai-observability)     | 🔵 Open core   | PostHog AI Observability captures generations, traces, sessions, token usage, cost, latency, and errors as product analytics events that can be correlated with user behavior and session replay. [Docs](https://posthog.com/docs/ai-observability) |
+| [Overmind](https://github.com/overmind-core/overmind) | 🟢 Open source | Overmind is an open-source platform with OpenTelemetry-native trace ingest, sessions, live scoring and evaluations, where the same traces become datasets for fine-tuning open-weight models. |
 
 ## Open-Source Tracing and Self-Hosted Observability
 
