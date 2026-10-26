@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/llm-observability-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 120,
+  "entry_count": 121,
   "category_count": 11,
   "categories": {
     "Full-Stack LLM Observability Platforms": 19,
@@ -13,7 +13,7 @@
     "Online Quality Evaluation and Feedback Monitoring": 12,
     "Agent Observability and Session Replay": 11,
     "Cost, Latency, and Inference Performance Monitoring": 9,
-    "Security, Compliance, and Runtime Policy Monitoring": 15,
+    "Security, Compliance, and Runtime Policy Monitoring": 16,
     "Cloud and APM Suites with LLM Observability": 10,
     "Classic ML and Data Monitoring": 7,
     "Discontinued and Historical Tools": 9
@@ -1311,6 +1311,17 @@
       "status": "active",
       "primary_url": "https://aws.amazon.com/bedrock/guardrails/",
       "description": "Amazon Bedrock Guardrails applies configurable content filters, denied topics, sensitive-information controls, contextual grounding checks, and automated reasoning checks and records interventions for monitoring.",
+      "secondary_links": []
+    },
+    {
+      "id": "security-compliance-and-runtime-policy-monitoring--speakeasy-control-plane",
+      "name": "Speakeasy control plane",
+      "artifact_type": "tool",
+      "category": "Security, Compliance, and Runtime Policy Monitoring",
+      "availability": "open-core",
+      "status": "active",
+      "primary_url": "https://github.com/speakeasy-api/gram",
+      "description": "Speakeasy control plane combines identity-based MCP tool permissions and per-action policies with tool-call audit logs for runtime security monitoring.",
       "secondary_links": []
     },
     {

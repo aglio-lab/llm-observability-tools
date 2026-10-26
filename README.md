@@ -203,6 +203,7 @@ An **AI gateway** sits in the request path between an application and one or mor
 | [Google Cloud Model Armor](https://cloud.google.com/security-command-center/docs/model-armor-overview)    | 🔒 Commercial  | Google Cloud Model Armor screens prompts and responses for prompt injection, jailbreaks, harmful content, malicious URLs, and sensitive data and exposes findings for centralized security operations.                             |
 | [Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety)       | 🔒 Commercial  | Azure AI Content Safety provides APIs and controls for content classification, prompt-attack detection, groundedness checks, custom categories, blocklists, and monitoring of moderation outcomes.                                  |
 | [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/)                                   | 🔒 Commercial  | Amazon Bedrock Guardrails applies configurable content filters, denied topics, sensitive-information controls, contextual grounding checks, and automated reasoning checks and records interventions for monitoring.                |
+| [Speakeasy control plane](https://github.com/speakeasy-api/gram) | 🔵 Open core | Speakeasy control plane combines identity-based MCP tool permissions and per-action policies with tool-call audit logs for runtime security monitoring. |
 
 ## Cloud and APM Suites with LLM Observability
 
