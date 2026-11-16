@@ -6,7 +6,7 @@ Every entry links to a primary source. Availability markers distinguish open sou
 
 ## Main content
 
-- [Full list](https://raw.githubusercontent.com/aglio-lab/llm-observability-tools/main/README.md): 120 source-linked entries across 11 catalog sections
+- [Full list](https://raw.githubusercontent.com/aglio-lab/llm-observability-tools/main/README.md): 121 source-linked entries across 11 catalog sections
 - [JSON catalog](https://raw.githubusercontent.com/aglio-lab/llm-observability-tools/main/data/tools.json): structured entity records
 - [CSV catalog](https://raw.githubusercontent.com/aglio-lab/llm-observability-tools/main/data/tools.csv): flat machine-readable index
 - [Monthly maintenance policy](https://raw.githubusercontent.com/aglio-lab/llm-observability-tools/main/MAINTENANCE.md): review schedule and evidence rules
@@ -18,7 +18,7 @@ Every entry links to a primary source. Availability markers distinguish open sou
 - OpenTelemetry and Interoperability Specifications (7 entries)
 - AI Gateways and Proxies (12 entries)
 - Online Quality Evaluation and Feedback Monitoring (12 entries)
-- Agent Observability and Session Replay (11 entries)
+- Agent Observability and Session Replay (12 entries)
 - Cost, Latency, and Inference Performance Monitoring (9 entries)
 - Security, Compliance, and Runtime Policy Monitoring (15 entries)
 - Cloud and APM Suites with LLM Observability (10 entries)
