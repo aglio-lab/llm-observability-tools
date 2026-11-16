@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/llm-observability-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 120,
+  "entry_count": 121,
   "category_count": 11,
   "categories": {
     "Full-Stack LLM Observability Platforms": 19,
@@ -11,7 +11,7 @@
     "OpenTelemetry and Interoperability Specifications": 7,
     "AI Gateways and Proxies": 12,
     "Online Quality Evaluation and Feedback Monitoring": 12,
-    "Agent Observability and Session Replay": 11,
+    "Agent Observability and Session Replay": 12,
     "Cost, Latency, and Inference Performance Monitoring": 9,
     "Security, Compliance, and Runtime Policy Monitoring": 15,
     "Cloud and APM Suites with LLM Observability": 10,
@@ -1031,6 +1031,26 @@
         {
           "label": "Docs",
           "url": "https://traccia.ai/docs"
+        }
+      ]
+    },
+    {
+      "id": "agent-observability-and-session-replay--clickhouse-loom",
+      "name": "ClickHouse Loom",
+      "artifact_type": "tool",
+      "category": "Agent Observability and Session Replay",
+      "availability": "open-source",
+      "status": "active",
+      "primary_url": "https://github.com/ClickHouse/loom",
+      "description": "ClickHouse Loom is a self-hosted agent data plane on ClickHouse with run records, searchable conversations and tool-call observations from its Claude Code and Codex plugins; conversation recording requires namespace opt-in, Codex hooks require user approval, and plain MCP connections do not capture transcripts. Capture and client limits · Conversations.",
+      "secondary_links": [
+        {
+          "label": "Capture and client limits",
+          "url": "https://clickhouse.github.io/loom/features/integrations/mcp-clients/"
+        },
+        {
+          "label": "Conversations",
+          "url": "https://clickhouse.github.io/loom/features/conversations-and-sessions/"
         }
       ]
     },
